@@ -22,3 +22,6 @@ docker-compose up -d　--build
 - phpmyadmin：localhost:8811
 
 > Laravel專案的database port要確定是否跟docker-compose.yml一致(目前設定為3306)
+
+
+## 測試推
